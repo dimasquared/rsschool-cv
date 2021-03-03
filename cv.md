@@ -51,8 +51,7 @@ function isPrime(num) {
 
 ## EDUCATION
 
-Belorussian-Russian University, 2005-2010
-Faculty of Electrical Engineering
+Belorussian-Russian University, Faculty of Electrical Engineering, 2005-2010
 
 
 ## LANGUAGES
